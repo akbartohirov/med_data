@@ -1,0 +1,14 @@
+.font {
+  font-size: 12px;
+}
+
+.rgstr_nav_link {
+  color: #fff !important;
+  background-color: #ff7575 !important;
+  transition: color 0s !important;
+}
+
+.rgstr_nav_link.active {
+  background-color: #54b569 !important;
+  transition: color 0s !important;
+}
